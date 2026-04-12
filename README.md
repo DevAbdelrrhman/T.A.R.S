@@ -137,8 +137,8 @@ T.A.R.S can be integrated via REST API endpoints:
 ## Installation
 
 ```bash
-# Clone repository
-git clone https://github.com/your-repo/tars.git
+# [Clone repository
+git clone [https://github.com/your-repo/tars.git](https://github.com/DevAbdelrrhman/T.A.R.S.git)](https://github.com/DevAbdelrrhman/T.A.R.S.git)
 cd tars
 
 # Install dependencies
